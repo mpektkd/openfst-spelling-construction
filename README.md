@@ -1,0 +1,2 @@
+# openfst-spelling-construction
+NTUA
