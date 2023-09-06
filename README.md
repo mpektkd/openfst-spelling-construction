@@ -41,5 +41,27 @@ NTUA Projects, NLP
          cost(substitution)=1.5)
     - Test the model with the inputs "cit", "cwt"(we call fstarcsort on the transducer's 
       outputs and/or its inputs acceptor )
+      
   - **Step 7:** _Evaluation_
     - Evaluate the model over the spell_test.txt
+  
+  - **Step 8:** _Cost calculation of edits_
+    - We will assign a different cost to each Levenshtein transducer edit operation.
+      But to calculate these different costs we will need some additional information
+      
+  - **Step 9:** _Enter word frequency(Unigram word model)_
+    - In this step we will input word occurrence frequencies into the model so that the speller can
+      suggests more likely words in his corrections
+
+  - **Step 10:** _Assessment of spellers_
+   
+  - **Step 11:** _Speller improvements_
+    - We apply Add-1 smoothing
+    - We use larger corpora
+   
+  - **Step 12:** _Extract word2vec representations_
+       
+  - **Step 13:** _Visualization of word embeddings_
+   
+  - **Step 14:** _Sentiment analysis with word2vec embeddings_
+    
