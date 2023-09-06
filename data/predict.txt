@@ -1,0 +1,35 @@
+1)The prediction of gutenberg_with_50_vectors_w2v.100d.model for (12c)
+Word: bible, Most Similar: coat, Cosine Distance: 0.21579280495643616
+Word: book, Most Similar: letter, Cosine Distance: 0.3534941077232361
+Word: bank, Most Similar: hill, Cosine Distance: 0.3256130814552307
+Word: water, Most Similar: waters, Cosine Distance: 0.3923218548297882
+
+2)The prediction of gutenberg10_w2v.100d.model for (12c)
+Word: bible, Most Similar: official, Cosine Distance: 0.3943222761154175
+Word: book, Most Similar: pen, Cosine Distance: 0.48721635341644287
+Word: bank, Most Similar: table, Cosine Distance: 0.5035967826843262
+Word: water, Most Similar: waters, Cosine Distance: 0.5818381309509277
+
+3)The prediction of gutenberg_sgip_gram_w2v.100d.model for (12c)
+Word: bible, Most Similar: official, Cosine Distance: 0.538030207157135
+Word: book, Most Similar: written, Cosine Distance: 0.7111548185348511
+Word: bank, Most Similar: nelson, Cosine Distance: 0.48698118329048157
+Word: water, Most Similar: waters, Cosine Distance: 0.5606293082237244
+
+4)The prediction of gutenberg_with_20_min_w2v.100d.model for (12c)
+Word: book, Most Similar: letter, Cosine Distance: 0.534949541091919
+Word: bank, Most Similar: wall, Cosine Distance: 0.5918746590614319
+Word: water, Most Similar: waters, Cosine Distance: 0.6383183002471924
+
+5)The prediction of gutenberg2_w2v.100d.model for (12c)
+Word: bible, Most Similar: verie, Cosine Distance: 0.43641847372055054
+Word: book, Most Similar: word, Cosine Distance: 0.497093141078949
+Word: bank, Most Similar: hill, Cosine Distance: 0.6072980761528015
+Word: water, Most Similar: wood, Cosine Distance: 0.5564263463020325
+
+6)The prediction of gutenberg_with_300_vectors_w2v.100d.model for (12c)
+Word: bible, Most Similar: sheaf, Cosine Distance: 0.22205309569835663
+Word: book, Most Similar: letter, Cosine Distance: 0.3361019194126129
+Word: bank, Most Similar: top, Cosine Distance: 0.32900407910346985
+Word: water, Most Similar: waters, Cosine Distance: 0.3926083445549011
+

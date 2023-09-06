@@ -1,0 +1,18 @@
+The predictions of our model for (12c)
+Word: bible, Most Similar: intermission, Cosine Distance: 0.34064799547195435
+Word: book, Most Similar: letter, Cosine Distance: 0.5034124255180359
+Word: bank, Most Similar: top, Cosine Distance: 0.531508207321167
+Word: water, Most Similar: waters, Cosine Distance: 0.6192663908004761
+The predictions of our model for (12d)
+Word: ('girls', 'queen', 'kings'), Most Similar: cities, Cosine Distance: 0.5676475763320923
+Word: ('good', 'tall', 'taller'), Most Similar: useful, Cosine Distance: 0.41241177916526794
+Word: ('france', 'paris', 'london'), Most Similar: school, Cosine Distance: 0.4473993182182312
+The predictions of google's model for (12c)
+Word: ('girls', 'queen', 'kings'), Most Similar: boys, Cosine Distance: 0.7183727622032166
+Word: ('good', 'tall', 'taller'), Most Similar: better, Cosine Distance: 0.7245720624923706
+Word: ('france', 'paris', 'london'), Most Similar: england, Cosine Distance: 0.5836853384971619
+The predictions of google's model for (12d)
+Word: bible, Most Similar: Bible, Cosine Distance: 0.7367782592773438
+Word: book, Most Similar: tome, Cosine Distance: 0.7485830783843994
+Word: bank, Most Similar: banks, Cosine Distance: 0.7440758943557739
+Word: water, Most Similar: potable_water, Cosine Distance: 0.6799106597900391

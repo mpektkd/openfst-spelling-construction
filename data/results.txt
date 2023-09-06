@@ -1,0 +1,30 @@
+The results of our model are:
+
+	 The accuracy score , with 5000 pos and neg reviews for training data and 3000 for test set, is: 0.7325
+	The accuracy score , with 5000 pos and neg reviews for training data and 7000 for test set, is: 0.733
+	The accuracy score , with 5000 pos and neg reviews for training data and 12500 for test set, is: 0.73112
+	
+The accuracy score , with 12500 pos and neg reviews for training data and 3000 for test set, is: 0.7355
+	The accuracy score , with 12500 pos and neg reviews for training data and 7000 for test set, is: 0.7346428571428572
+	The accuracy score , with 12500 pos and neg reviews for training data and 12500 for test set, is: 0.73468
+	
+The results of google_10^6 model are:
+
+	 The accuracy score , with 5000 pos and neg reviews for training data and 3000 for test set, is: 0.8456666666666667
+	The accuracy score , with 5000 pos and neg reviews for training data and 7000 for test set, is: 0.8533571428571428
+	The accuracy score , with 5000 pos and neg reviews for training data and 12500 for test set, is: 0.85324
+	
+The accuracy score , with 12500 pos and neg reviews for training data and 3000 for test set, is: 0.8555
+	The accuracy score , with 12500 pos and neg reviews for training data and 7000 for test set, is: 0.8619285714285714
+	The accuracy score , with 12500 pos and neg reviews for training data and 12500 for test set, is: 0.86112
+	
+The results of google_all model are:
+
+	 The accuracy score , with 5000 pos and neg reviews for training data and 3000 for test set, is: 0.8475
+	The accuracy score , with 5000 pos and neg reviews for training data and 7000 for test set, is: 0.854
+	The accuracy score , with 5000 pos and neg reviews for training data and 12500 for test set, is: 0.85292
+	
+The accuracy score , with 12500 pos and neg reviews for training data and 3000 for test set, is: 0.8556666666666667
+	The accuracy score , with 12500 pos and neg reviews for training data and 7000 for test set, is: 0.8613571428571428
+	The accuracy score , with 12500 pos and neg reviews for training data and 12500 for test set, is: 0.8606
+	
