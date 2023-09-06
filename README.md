@@ -1,5 +1,5 @@
 ## openfst-spelling-construction
-NTUA Projects, NLP
+NTUA Projects, NLP, openfst, word2vec, BoW
 
   - **Step 1:** _Corpus Construction_
     - Download and basic preprocess the corpus 
